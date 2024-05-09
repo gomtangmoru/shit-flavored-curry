@@ -1,0 +1,12 @@
+{
+  "panel": {
+    "success_token" : "토큰이 성공적으로 불러왔습니다.",
+    "startup" : "언어 파일이 성공적으로 불어와졌어요!"
+  },
+  "error": {
+    "name_error" : "잘못된 방식으로 불러오고 있습니다 \"python3 index.py\"로 불러오고 있는지 확인하십시오. ",
+    "token_default" : "토큰이 기본값으로 설정되어있습니다. 토큰을 교체해주세요.",
+    "token_error" : "토큰이 잘못 설정되어있습니다. 토큰을 확인해주세요.",
+    "import_error" : "필요한 모듈을 가져올 수 없습니다. 동작중인 파이썬 환경을 확인해주시고\npip install -r requirements.txt를 실행하여 필요한 모듈을 설치해주세요."
+  }
+}
