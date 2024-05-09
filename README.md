@@ -1,5 +1,5 @@
 # shit-flavored curry
-This repository is work in progress, not work.
+This repository is not working because it is a work in progress
 
 ## instllation
 ```bash
